@@ -1,0 +1,1 @@
+In this repository, You can find all spring boot projects which includes spring REST, MULTI-MODULE, JPA, Connecting Oracle Database, JDBC, h2 database, Cache, THYMELEAF, You can also find Apache-derby example as well.
