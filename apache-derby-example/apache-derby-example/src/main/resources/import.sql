@@ -1,0 +1,1 @@
+insert into USER_RECORD(ID,NAME,EMAIL) values(101,'virat','rohit');
